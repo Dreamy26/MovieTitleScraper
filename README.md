@@ -11,7 +11,7 @@ Console Application
 
 ## User steps
 1. Clone GitHub repo
-2. Open solution, to add code to your favorite IDE
+2. Open solution, will add code to your favorite IDE
 3. Run the application 
 ## Results
 1. User will see a list of Movie Titles from yts.mx
