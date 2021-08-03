@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvCP7CYrza8O4oCO83TBxhAVnkS+35ToW603vb8R6dUhb4c99LwSNoiyGYpbDDrb9kkXTb/prMlLnDSdDVSoyw==",
+  "success": true,
+  "projectFilePath": "/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/Scraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/dreamy/.nuget/packages/htmlagilitypack/1.11.34/htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}

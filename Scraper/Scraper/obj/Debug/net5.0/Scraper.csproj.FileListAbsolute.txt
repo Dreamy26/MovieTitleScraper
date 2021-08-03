@@ -1,0 +1,17 @@
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/Scraper.deps.json
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/Scraper.runtimeconfig.json
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/Scraper.runtimeconfig.dev.json
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/Scraper.dll
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/ref/Scraper.dll
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/Scraper.pdb
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/bin/Debug/net5.0/HtmlAgilityPack.dll
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.csproj.AssemblyReference.cache
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.AssemblyInfoInputs.cache
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.AssemblyInfo.cs
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.csproj.CopyComplete
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.dll
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/ref/Scraper.dll
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.pdb
+/Users/dreamy/Projects/awPracticeCode/Scraper/Scraper/Scraper/obj/Debug/net5.0/Scraper.genruntimeconfig.cache
