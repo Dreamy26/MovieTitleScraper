@@ -17,8 +17,6 @@ Console Application
 1. User will see a list of Movie Titles from yts.mx
 
 
-## CSharp SoSharp
-
 ## Notes - During the process:
 While trying to parse the movie titles via yts.mx inspect code, I tried using single quotes as the YouTube video demostrated.
 However, using single quotes did not work for me, I had to use Double quotes.  
