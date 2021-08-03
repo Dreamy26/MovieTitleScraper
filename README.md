@@ -27,6 +27,7 @@ While I could not use the single quotes while searching the inspect code, I did 
 
 ## Resources
  [How to Scrape Data in C# | Web scrapping in Visual Studio](https://www.youtube.com/watch?v=wwPx8QJn9Kk&t=348s) 
+ 
  [How to parse HTML in .NET](https://scrapingant.com/blog/parse-html-dot-net)
 
 ## Next Steps
